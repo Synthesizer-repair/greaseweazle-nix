@@ -1,0 +1,21 @@
+# Claude Code
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+
+# direnv
+.direnv/
+
+# nix build outputs
+result
+result-*
+
+# captured disk images / flux dumps live here, don't track them
+/images/
+*.scp
+*.raw
+*.hfe
+*.img
+*.ima
+*.adf
+*.imd
